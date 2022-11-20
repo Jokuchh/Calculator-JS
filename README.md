@@ -1,2 +1,1 @@
-# Calculator-JS
-Calculator (HTML, CSS и JavaScript)
+# Calculator-with-JavaScript
